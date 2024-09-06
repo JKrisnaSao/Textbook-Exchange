@@ -1,14 +1,14 @@
 ## Personal Project Title
 >BookBridge
 
-##Team Members
+## Team Members
 >Jonathan Sao
 >Ganiyu Ibrahim
 >Mogoi Matongo
 
 
 
-##Description
+## Description
 >BookBridge, A app that allows students to buy,sell, or exchange textbooks with peers.
 >
 >Our users will have access to a social playform that let them interact with other students or peers to exchange and buy books from one another. The listing would be able to have a short description,price, and quality.
