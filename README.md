@@ -2,8 +2,8 @@
 >BookBridge
 
 ## Team Members
->Jonathan Sao
->Ganiyu Ibrahim
+>Jonathan Sao  
+>Ganiyu Ibrahim\
 >Mogoi Matongo
 
 
