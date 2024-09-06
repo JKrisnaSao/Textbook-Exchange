@@ -15,5 +15,5 @@
 >Will be also implement a rating to the seller for their honesty on their sales.
 >
 >The users would be the providers and customers as they will be able to list their books up for sale or look to buy/exchange books.
-
+>
 >Adminds will monitor the platform and may delete any post that is not related to the platform purpose.
