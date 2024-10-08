@@ -19,7 +19,7 @@ body{
 .nav-header img{
     height: auto;
     cursor: pointer;
-    max-width: 100%;
+    max-width: auto;
 }
 
 .nav-header ul{
